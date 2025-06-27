@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/ai-interviewer/ai-interviewer-dev/api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ai-interviewer/ai-interviewer-dev/common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ai-interviewer/ai-interviewer-dev/dao/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ai-interviewer/ai-interviewer-dev/pojo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ai-interviewer/ai-interviewer-dev/service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ai-interviewer/ai-interviewer-dev/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ai-interviewer/ai-interviewer-dev/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ai-interviewer/mybatis-plus-generator-for-itzixi/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ai-interviewer/mybatis-plus-generator-for-itzixi/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
