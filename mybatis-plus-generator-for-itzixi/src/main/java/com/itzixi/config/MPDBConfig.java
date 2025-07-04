@@ -14,7 +14,7 @@ public class MPDBConfig {
 
         // 数据源配置
         DataSourceConfig dsc = new DataSourceConfig
-                .Builder("jdbc:mysql://127.0.0.1:3306/ai-interviewer","root","root")
+                .Builder("jdbc:mysql://127.0.0.1:4406/ai-interviewer","root","root")
                 .build();
 
         // 代码生成器

@@ -25,8 +25,8 @@ spring:
       password: imooc
 
 minio:
-  endpoint: http://127.0.0.1:8000     # MinIO的服务地址
-  fileHost: http://10.0.0.7:8000      # 文件地址host
+  endpoint: http://127.0.0.1:9000     # MinIO的服务地址
+  fileHost: http://localhost:9000      # 文件地址host
   bucketName: ai-interviewer          # 存储桶bucket的名称
   accessKey: imooc
   secretKey: imooc123456

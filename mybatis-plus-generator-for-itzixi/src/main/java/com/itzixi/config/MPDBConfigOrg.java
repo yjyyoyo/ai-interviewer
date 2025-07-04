@@ -14,7 +14,7 @@ public class MPDBConfigOrg {
 
         // 数据源配置
         DataSourceConfig dsc = new DataSourceConfig
-                .Builder("jdbc:mysql://127.0.0.1:4406/wechat-dev","root","root")
+                .Builder("jdbc:mysql://127.0.0.1:4406/ai-interviewer","root","root")
                 .build();
 
         // 代码生成器
